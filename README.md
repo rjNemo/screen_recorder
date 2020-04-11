@@ -30,17 +30,16 @@ npm run make
 
 - [Electron](https://www.electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [Node.js®](https://nodejs.org/) - JavaScript runtime built on Chrome's V8 JavaScript engine
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/rjNemo/screen_recorder/tags).
 
 ## Authors
 
 - **Ruidy Nemausat** - _Initial work_
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/rjNemo/screen_recorder/contributors) who participated in this project.
 
 ## License
 
